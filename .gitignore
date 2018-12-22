@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+hand-written-digit/input/
+hand-written-digit/input
+intro-to-pytorch/MNIST_data/
+.DS_Store
+*.DS_Store
